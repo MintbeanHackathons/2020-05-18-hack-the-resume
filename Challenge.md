@@ -46,7 +46,7 @@ For example:
 * Print to PDF
 * Responsive design 
 
-The most interesting, useful, and cool designs will have a chance of winning -- and they must be written well, too. So, get creative :-)
+The most interesting, useful, and cool designs will have a chance of winning. So, get creative :-)
 
 ## Frameworks:
 
